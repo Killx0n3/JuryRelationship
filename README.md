@@ -1,9 +1,6 @@
 # Jury Relationship
 ![Java](https://img.shields.io/badge/Language-Java-orange.svg)
 
-## Project Details
-SimpleSocial is a new, exciting, messaging service like nothing you've seen before!
-SimpleSocial is a micro-blogging service that allows users to post short messages of 150 characters or less.  All messages are public but a user can follow any other user and get their SimpleSocial included in their home pages.  Each user has a page that lists only their own SimpleSocial, there is also a page that lists mentions of a user (@ + username).
 
 ## Project Details and Problem
 In the island nation of V most legal disputes are decided by a jury. There are two basic rules that must be strictly followed.
